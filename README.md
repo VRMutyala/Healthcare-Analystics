@@ -1,5 +1,5 @@
 # Healthcare-Analystics
-# 🏥 Healthcare Dataset - Data Preparation & Power BI Reporting Summary
+# Healthcare Dataset - Data Preparation & Power BI Reporting Summary
 
 ## Overview
 
