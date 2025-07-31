@@ -1,6 +1,8 @@
 # Healthcare-Analystics
 # Healthcare Dataset - Data Preparation & Power BI Reporting Summary
 
+https://app.powerbi.com/reportEmbed?reportId=4de61a51-c6cf-490f-9eea-fb9a1623544d&autoAuth=true&ctid=f1f14c92-fde3-489f-8eeb-514d2f167be6
+
 ## Overview
 
 This project involves detailed data preparation and Power BI reporting for a healthcare dataset containing patient information, medical conditions, and insurance provider details. As a **BI Data Analyst**, I profiled and cleaned the dataset (16 columns, 10K rows) to enable insightful and interactive visualizations.
