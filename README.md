@@ -39,7 +39,7 @@ This report provides a high-level snapshot of patient demographics.
   - Table Visual: Displays detailed patient data with customizable columns  
   - Decomposition Tree: Breaks down total patients by age group and test results  
   - 100% Stacked Column Chart: Gender-wise medication usage percentages
-
+<img width="1907" height="977" alt="Image" src="https://github.com/user-attachments/assets/55b28466-0152-4ab3-8ca6-121937fd1c3b" />
 ### 2. **Medical Condition Analysis**
 
 This report uncovers trends and distribution patterns in patient health.
@@ -53,7 +53,7 @@ This report uncovers trends and distribution patterns in patient health.
   - Card Visuals: YoY growth % for each medical condition  
   - Clustered Column Chart: Male vs. female patients by admission type  
   - Matrix Table: Patients by condition, year, gender, and blood group
-
+<img width="1918" height="947" alt="Image" src="https://github.com/user-attachments/assets/c82cb1ab-9188-444a-803b-8c0b7eb1c320" />
 ### 3. **Insurance Provider Insights**
 
 This report breaks down patient billing and demographics across insurance providers.
@@ -92,7 +92,10 @@ This report breaks down patient billing and demographics across insurance provid
 - **Rows**: 10,000+  
 - **Columns**: 16  
 - **Domains**: Patient Demographics, Medical Conditions, Insurance, Billing
-
+<img width="1912" height="1018" alt="Image" src="https://github.com/user-attachments/assets/1be95ff5-c208-4863-9ac0-52f326281ee1" />
+<img width="993" height="752" alt="Image" src="https://github.com/user-attachments/assets/d1ee9f89-307c-4f8e-8a31-b04994b6029f" />
+<img width="1908" height="1017" alt="Image" src="https://github.com/user-attachments/assets/fb591e5a-e0b6-45da-9051-a4bc35f5b710" />
+<img width="1506" height="906" alt="Image" src="https://github.com/user-attachments/assets/477209ce-bbe4-427d-85e3-d68871bbb898" />
 ##  Future Enhancements
 
 - Drill-through pages for condition-specific deep dives  
