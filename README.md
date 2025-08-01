@@ -1,7 +1,7 @@
 # Healthcare-Analystics
 # Healthcare Dataset - Data Preparation & Power BI Reporting Summary
 
-https://app.powerbi.com/reportEmbed?reportId=4de61a51-c6cf-490f-9eea-fb9a1623544d&autoAuth=true&ctid=f1f14c92-fde3-489f-8eeb-514d2f167be6
+https://app.powerbi.com/reportEmbed?reportId=62862162-1b1f-429d-85e5-eafa703dcea3&autoAuth=true&ctid=f1f14c92-fde3-489f-8eeb-514d2f167be6
 
 ## Overview
 
