@@ -80,7 +80,7 @@ This report breaks down patient billing and demographics across insurance provid
     - Min (320,000): Dust Blue  
     - Mid (425,000): Shade of Pink  
     - Max (480,000): Light Teal Green
-
+<img width="1787" height="947" alt="Image" src="https://github.com/user-attachments/assets/3f12066d-1dc4-4ce0-a9d8-7ed5b6d48dc5" />
 ## Tools Used
 
 - Microsoft Power BI  
